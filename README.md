@@ -1,16 +1,16 @@
 # Operating Systems
 
-## CECS 326: Section 1 (1121)
+## CECS 326: Section 1 (10187)
 
-### Spring 2025
+### Summer 2025
 
-| Class Lecture | Time                | Room    |
-|---------------|---------------------|---------|
-| Tue Thu       | 5:00 PM - 6:15 PM   | HC-120  |
+| Class Lecture | Time                | Room     |
+|---------------|---------------------|----------|
+| Tue Wed Thu   | 2:00 PM - 4:30 PM   | ECS-407  |
 
-| Instructor        | Email                       | Office  | Office Hours             |
-|-------------------|-----------------------------|---------|--------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-501 | 10:00 - 11:00 AM Mon-Thu |
+| Instructor        | Email                       | Office  | Office Hours               |
+|-------------------|-----------------------------|---------|----------------------------|
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-501 | No office hours for Summer |
 
 ### Required Textbook
 
@@ -54,7 +54,7 @@ Students will take two midterm exams throughout the semester. There will be no m
 
 ### Attendance
 
-Attendance in this course is mandatory, as all material presented during class is fair game for exam questions or homework. Students are responsible for notifying the instructor about any extended leave of absences. There will be no makeups for assignments, quizzes, or exams that are missed due to an unexcused absence.
+Attendance in this course is **mandatory**, as all material presented during class is fair game for exam questions or homework. Students are responsible for notifying the instructor about any extended leave of absences. There will be no makeups for assignments, quizzes, or exams that are missed due to an unexcused absence.
 
 ### Class Rules
 
@@ -75,23 +75,12 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 | Week       | Subject                                             |
 |------------|-----------------------------------------------------|
-| Jan 20     | Introduction to Operating Systems (Ch 1)            |
-| Jan 27     | Processes and Threads (Ch 2)                        |
-| Feb  3     | Processes and Threads, ctd                          |
-| Feb 10     | First Midterm, Memory Management (Ch 3)             |
-| Feb 17     | Memory Management, ctd                              |
-| Feb 24     | Deadlock                                            |
-| Mar  3     | Deadlock, ctd                                       |
-| Mar 10     | I/O (ch 5)                                          |
-| Mar 17     | I/O, ctd                                            |
-| Mar 14     | Second Midterm                                      |
-| Mar 31     | **Spring Break**                                    |
-| Apr  7     | File Systems (Ch 6)                                 |
-| Apr 14     | File Systems, ctd                                   |
-| Apr 21     | Virtualization (Ch 7)                               |
-| Apr 28     | Virtualization, ctd                                 |
-| May 5-12   | Case Studies, Final Exam                            |
-
+| May 26     | Introduction to Operating Systems (Ch 1)            |
+| Jun  2     | Processes and Threads (Ch 2), First Midterm         |
+| Jun  9     | Memory Management (Ch 3)                            |
+| Jun 16     | Deadlock (Ch 6), Second Midterm                     |
+| Jun 23     | I/O (Ch 5)                                          |
+| Jun 30     | File Systems (Ch 4), Final Exam                     |
 
 ### Computer Software
 
@@ -99,7 +88,7 @@ You will be responsible for finding and installing any software needed to comple
 
 ### Academic Honesty
 
-There is zero tolerance for cheating, plagiarism, or any other act of violation of Academic Integrity Policy. Work that you submit is assumed to be original unless your source material is documented appropriately, using proper citation. Using the ideas or words of another person, even a peer, or a web site, as if it were your own, is plagiarism. Any individual or group caught cheating on homework, lab assignments, or any exam/quiz will be subjected to full extent of academic actions allowed under University regulations. At a minimum, any student caught violating Academic Integrity Policy will receive no credit for the work concerned and one grade lower letter grade. To learn more about the University policy on Cheating and Plagiarism, visit: [Academic Integrity Regarding Cheating and Plagiarism](https://www.csulb.edu/academic-senate/policy-academic-integrity-regarding-cheating-and-plagiarism)
+There is zero tolerance for cheating, plagiarism, or any other act of violation of Academic Integrity Policy. Work that you submit is assumed to be original unless your source material is documented appropriately, using proper citation. Using the ideas or words of another person, even a peer, or a web site, as if it were your own, is plagiarism. Any individual or group caught cheating on homework, lab assignments, or any exam/quiz will be subjected to full extent of academic actions allowed under University regulations. At a minimum, any student caught violating Academic Integrity Policy will receive no credit for the work concerned and one grade lower letter grade. To learn more about the University policy on Cheating and Plagiarism, visit: [Academic Integrity Regarding Cheating and Plagiarism](https://www.csulb.edu/academic-senate/policy-academic-integrity-regarding-cheating-and-plagiarism). **Sharing code with your peers is considered plagarism!**.
 
 ### Ethical Use of Artificial Intelligence (Large Language Models) in Coursework
 Students are encouraged to explore and utilize Artificial Intelligence (AI) tools to enhance their learning experience. However, the use of AI must align with the principles of academic integrity and ethical conduct. AI tools may be used for tasks such as brainstorming, editing, or coding assistance, provided their use is transparently disclosed and does not misrepresent the student's own understanding or effort. Unauthorized use of AI to complete assignments, plagiarize content, or generate work without proper attribution is prohibited and will be treated as a violation of academic integrity policies. If you are uncertain about whether a particular use of AI is permitted, please consult the instructor before proceeding.
