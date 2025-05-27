@@ -14,7 +14,7 @@
 
 ### Required Textbook
 
-* [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/9332575770), 5th edition, by Andrew Tanenbaum and Herbert Bos
+* [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum-ebook/dp/B09ZHR7NRK), 5th edition, by Andrew Tanenbaum and Herbert Bos
 
 ### Optional Textbooks
 
